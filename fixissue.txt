@@ -1,1 +1,1 @@
-oi dm master cung fix issue69 ma 
+master fixed issue 69 
